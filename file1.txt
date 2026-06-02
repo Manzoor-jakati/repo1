@@ -1,4 +1,3 @@
-echo "Hello world"
-echo "how are you doing "
+
 echo "Push kar bhai"
 echo "abhhi pull kar bro"
